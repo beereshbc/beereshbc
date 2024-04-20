@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beereshbc
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full stack Web Development
 - 🌱 I’m currently learning - BE in Computer science At GMIT Davanagere
 - 💞️ I’m looking to collaborate on Web Development ....
 - 📫 How to reach me ...By Gmail - bcbeereshkumar@gmail.com (social media links in Bio)
