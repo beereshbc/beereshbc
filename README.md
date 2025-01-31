@@ -2,7 +2,8 @@
 
 🚀 A **MERN Stack Web Developer** passionate about crafting scalable, efficient, and user-centric applications. 
 
-## 🐍 GitHub Contribution Snake  
+
+## 🐍 GitHub Contribution  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -14,6 +15,8 @@
 
 ### 🌟 **About Me**  
 💻 **Tech Enthusiast:** Specializing in **MongoDB**, **Express.js**, **React.js**, and **Node.js**, I thrive on solving real-world problems using modern technologies.  
+
+🎓 **Student Developer:** Pursuing my studies at **G M Institute of Technology**, constantly exploring and building innovative web solutions.
 
 🌱 **Lifelong Learner:** Staying updated with the latest trends in web development fuels my passion for growth and innovation.  
 
