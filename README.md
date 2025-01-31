@@ -16,7 +16,7 @@
 ### 🌟 **About Me**  
 💻 **Tech Enthusiast:** Specializing in **MongoDB**, **Express.js**, **React.js**, and **Node.js**, I thrive on solving real-world problems using modern technologies.  
 
-🎓 **Student Developer:** Pursuing my studies at **G M Institute of Technology**, constantly exploring and building innovative web solutions.
+🎓 **Student Developer:** Pursuing my studies at **G M Institute of Technology Davanagere** in **Computer Science Engineering**, constantly exploring and building innovative web solutions.
 
 🌱 **Lifelong Learner:** Staying updated with the latest trends in web development fuels my passion for growth and innovation.  
 
