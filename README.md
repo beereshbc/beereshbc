@@ -1,8 +1,15 @@
 ## 👋 Hello, I'm Beeresh BC  
 
-🚀 A **MERN Stack Web Developer** passionate about crafting scalable, efficient, and user-centric applications.  
+🚀 A **MERN Stack Web Developer** passionate about crafting scalable, efficient, and user-centric applications. 
+
 ## 🐍 GitHub Contribution Snake  
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 ### 🌟 **About Me**  
@@ -48,3 +55,4 @@ Let's create impactful tech solutions together! Reach out to brainstorm, collabo
 [![](https://visitcount.itsvg.in/api?id=beereshbc&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
