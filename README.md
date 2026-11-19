@@ -16,7 +16,6 @@
 <a href="https://beereshkumarbc.me"><img src="https://img.shields.io/badge/PORTFOLIO-beereshkumarbc.me-005B4C?style=for-the-badge&labelColor=40A2E3&labelColor=40A2E3" alt="Visit portfolio at beereshkumarbc.me" /></a>
 
 <p>
-  <a href="#philosophy">Philosophy</a> ·
   <a href="#about">About</a> ·
   <a href="#skills">Skills</a> ·
   <a href="#activity">Activity</a> ·
