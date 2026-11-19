@@ -170,6 +170,3 @@ Open to meaningful engineering collaborations, innovative projects, and opportun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=005B4C&height=120&section=footer&reversal=true" alt="" width="100%" />
 
 </div>
-<div>
-  <img src="https://contributors-img.web.app/image?repo=beereshbc/PDMS"/>
-</div>
