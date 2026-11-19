@@ -1,30 +1,26 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=005B4C&height=190&section=header&text=BEERESHKUMAR%20B%20C&fontSize=42&fontColor=DFF391&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20MERN%20%C2%B7%20Agentic%20AI%20%C2%B7%20Web3&descSize=15&descAlignY=60&descColor=FFFFFF&animation=fadeIn" alt="Beereshkumar B C — Full-Stack, Java and Spring Boot, MERN, Agentic AI, Web3" width="100%" />
 
-# Hi, I'm Beeresh.
-
-**Full-Stack Developer | Java & Spring Boot | MERN Stack | Agentic AI | Web3**
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=40A2E3&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;MERN+Stack+Developer;Java+%26+Spring+Boot+Developer;Agentic+AI+Explorer;Web3+Developer;Software+Engineer+in+Progress" alt="Rotating titles: Full-Stack Developer, MERN Stack Developer, Java and Spring Boot Developer, Agentic AI Explorer, Web3 Developer, Software Engineer in Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3000&pause=1100&color=40A2E3&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I'm+Beeresh.;Full-Stack+Developer;MERN+Stack+Developer;Java+%26+Spring+Boot+Developer;Agentic+AI+Explorer;Web3+Developer;Software+Engineer+in+Progress" alt="Rotating titles: Full-Stack Developer, MERN Stack Developer, Java and Spring Boot Developer, Agentic AI Explorer, Web3 Developer, Software Engineer in Progress" />
 
 <p>
 Building scalable applications, intelligent systems, and impactful digital products.
 </p>
 
 <p>
-  <a href="https://beereshkumarbc.me"><img src="https://img.shields.io/badge/Portfolio-005B4C?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/beereshkumar-b-c-004397341"><img src="https://img.shields.io/badge/LinkedIn-40A2E3?style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:bcbeereshkumar@gmail.com"><img src="https://img.shields.io/badge/Email-64748B?style=flat-square" alt="Email" /></a>
-  <a href="https://instagram.com/beera____"><img src="https://img.shields.io/badge/Instagram-64748B?style=flat-square" alt="Instagram" /></a>
-  <a href="https://x.com/BBchatrad"><img src="https://img.shields.io/badge/X-64748B?style=flat-square" alt="X" /></a>
+  <a href="https://github.com/beereshbc"><img src="assets/btn-github.svg" alt="GitHub" height="38" /></a>
+  <a href="https://beereshkumarbc.me"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="38" /></a>
+  <a href="https://www.linkedin.com/in/beereshkumar-b-c-004397341"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38" /></a>
+  <a href="mailto:bcbeereshkumar@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="38" /></a>
+  <a href="https://instagram.com/beera____"><img src="assets/btn-instagram.svg" alt="Instagram" height="38" /></a>
+  <a href="https://x.com/BBchatrad"><img src="assets/btn-x.svg" alt="X" height="38" /></a>
 </p>
 
 <p>
+  <a href="#philosophy">Philosophy</a> ·
   <a href="#about">About</a> ·
   <a href="#skills">Skills</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#experience">Experience</a> ·
   <a href="#github-activity">Activity</a> ·
   <a href="#education--achievements">Education</a> ·
   <a href="#currently-exploring">Exploring</a> ·
@@ -35,181 +31,74 @@ Building scalable applications, intelligent systems, and impactful digital produ
 
 ---
 
+## Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=4000&pause=2200&color=005B4C&center=true&vCenter=true&width=700&height=60&lines=Never+compromise+on+good+things.;Compromise+is+an+injury+to+identity." alt="Never compromise on good things. Compromise is an injury to identity." />
+
+<br/>
+
+<sub>I aspire to build software with attitude: products where quality is never up for negotiation.</sub>
+
+</div>
+
+---
+
 ## About
 
-I'm a final-year Computer Science Engineering student at **G M Institute of Technology, Davanagere**, and a freelance full-stack developer. I build institutional platforms, freelance products, and event systems, and I'm increasingly drawn to AI/LLM systems, agentic architectures, and Web3.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Status**
-
-| | |
-|---|---|
-| **Role** | Software Developer, GMIT CSE Department |
-| **Also** | Freelance Full-Stack Developer |
-| **Graduating** | June 2027 · CGPA 8.3 / 10 |
-| **Main stack** | MERN · Java & Spring Boot |
-| **Exploring** | Agentic AI · RAG · MCP · Web3 |
-| **Collaboration** | Open to meaningful engineering work |
-
-</td>
-    <td width="50%" valign="top">
-
-**Selected numbers (from my resume)**
-
-| | |
-|---|---|
-| **500+** | users on departmental academic platforms |
-| **60%** | less administrative overhead via Gemini API automation |
-| **5+** | full-stack web applications deployed |
-| **200+** | users on the InterConnect 26.0 platform |
-| **100%** | uptime during the InterConnect 26.0 event period |
-
-</td>
-  </tr>
-</table>
+I'm a final-year Computer Science Engineering student at **G M Institute of Technology, Davanagere** (graduating June 2027), and a freelance full-stack developer. I work across the MERN stack and Java with Spring Boot, and I'm steadily moving deeper into AI/LLM systems, agentic architectures, and Web3.
 
 ---
 
 ## Skills
 
-<table>
-  <tr>
-    <td width="200" valign="top"><b>Languages & Core CS</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,java,py,solidity&theme=dark" alt="JavaScript, Java, Python, Solidity icons" /><br/>
-      <sub>JavaScript (ES6+) · Java · Python · Solidity · DSA · Machine Learning · Deep Learning</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Full-Stack</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,tailwind&theme=dark" alt="React, Node.js, Express, Spring Boot, MongoDB, Tailwind CSS icons" /><br/>
-      <sub>React.js · Node.js · Express.js · Spring Boot · MongoDB · Mongoose · REST APIs · JWT · Axios · Multer</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Databases & Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,aws,vercel&theme=dark" alt="MySQL, AWS, Vercel icons" /><br/>
-      <sub>MySQL · AWS · Vercel · Render · Cloudinary</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Tools & UI/UX</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark" alt="Git, GitHub, Postman, Figma icons" /><br/>
-      <sub>Git · GitHub · Postman · CI/CD · Tailwind CSS · Figma · Canva</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Web3</b><br/><sub>Exploring</sub></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=solidity,hardhat&theme=dark" alt="Solidity and Hardhat icons" /><br/>
-      <sub>Ethereum · Hedera · Hardhat · Ethers.js · Web3.js · MetaMask · IPFS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>AI & Agentic Systems</b><br/><sub>Exploring, plus Gemini API in production</sub></td>
-    <td>
-      <sub>Gemini API (used in production) · Agentic AI · LangChain · LangGraph · RAG · Vectorless RAG · Guardrails · Evals · MLOps</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+### Core stack
+<sub>What I build with most</sub>
 
-## Featured Projects
+<br/>
 
-### Flagship
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,spring,py&perline=8" alt="Core stack: JavaScript, React, Node.js, Express, MongoDB, Java, Spring Boot, Python" height="56" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<sub><b>JavaScript (ES6+)</b> · <b>React.js</b> · <b>Node.js</b> · <b>Express.js</b> · <b>MongoDB</b> · <b>Java</b> · <b>Spring Boot</b> · <b>Python</b></sub>
 
-#### PDMS
-**AI-Integrated Program Curriculum Management System**
+<br/><br/>
 
-Curriculum management for departmental academic workflows, combining Gemini API with Python PDF parsing, schema-based processing, and curriculum version control.
+### Backend & API craft
+<sub>REST APIs · JWT authentication · Mongoose · Axios · Multer · MySQL · Data Structures & Algorithms</sub>
 
-`MERN` `Gemini API` `Python` `PDF parsing` `Version control`
+<img src="https://skillicons.dev/icons?i=mysql,postman,npm&perline=8" alt="MySQL, Postman, npm" height="44" />
 
-**Engineering focus:** AI-assisted document processing with versioned curriculum data.
+<br/><br/>
 
-[Repository](https://github.com/beereshbc/PDMS)
+### Frontend & design
+<sub>HTML · CSS · Tailwind CSS · Bootstrap · EJS · Figma · Canva</sub>
 
-</td>
-    <td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma&perline=8" alt="HTML, CSS, Tailwind CSS, Bootstrap, Figma" height="44" />
 
-#### InterConnect 26.0
-**GSoC-style project management platform**
+<br/><br/>
 
-The official platform for InterConnect 26.0, built and deployed as Lead Organizer and Platform Developer. It supported 200+ users for real-time project management and submissions.
+### Cloud, deployment & tooling
+<sub>AWS · Vercel · Render · Heroku · Cloudinary · CI/CD · Git · GitHub</sub>
 
-`MERN` `Event management` `Deployment`
+<img src="https://skillicons.dev/icons?i=aws,vercel,heroku,git,github&perline=8" alt="AWS, Vercel, Heroku, Git, GitHub" height="44" />
 
-**Engineering focus:** building and deploying a live event platform, with 100% uptime during the event period.
+<br/><br/>
 
-Repository: _link to be added_
+### Exploring
+<sub>Actively learning, not yet professional-grade</sub>
 
-</td>
-  </tr>
-</table>
+<br/>
 
-### More work
+<img src="https://skillicons.dev/icons?i=solidity,hardhat&perline=8" alt="Solidity and Hardhat" height="44" />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+<sub><b>Agentic AI</b> · LangChain · LangGraph · RAG · Vectorless RAG · Guardrails · Evals · MLOps · Machine Learning · Deep Learning</sub><br/>
+<sub><b>Web3</b> · Solidity · Ethereum · Hedera · Hardhat · Ethers.js · Web3.js · MetaMask · IPFS</sub><br/>
+<sub><b>LLM APIs</b> · Gemini API</sub>
 
-#### GMU-CSE Department Community Platform
-Institutional web platform with an administrative dashboard consolidating faculty directories, placement records, and alumni networks.
-
-`MERN` `Context API` `Cloudinary` `MongoDB` `Responsive design`
-
-[Repository](https://github.com/beereshbc/CSE-GMU)
-
-</td>
-    <td width="33%" valign="top">
-
-#### TejasDairy
-**Dairy management system (freelance)**
-
-Full-stack dairy management platform with real-time inventory tracking and automated billing cycles.
-
-`MERN` `Tailwind CSS`
-
-[Repository](https://github.com/beereshbc/TJDairy)
-
-</td>
-    <td width="33%" valign="top">
-
-#### Influancaa
-**AI-powered influencer–brand matchmaking**
-
-Influencer–brand matchmaking, campaign management, social media tracking, and secure Razorpay escrow payments.
-
-`MERN` `JWT` `MongoDB` `Razorpay Escrow` `Social media integration`
-
-Repository: _link to be added_
-
-</td>
-  </tr>
-</table>
-
-More Web2 and Web3 work lives on [GitHub](https://github.com/beereshbc?tab=repositories).
-
----
-
-## Experience
-
-| Period | Role | Highlights |
-|---|---|---|
-| **Jan 2026 – Present** | **Software Developer**<br/>GMIT CSE Department | Developed departmental academic platforms serving 500+ users. Reduced administrative overhead by 60% through Gemini API automation.<br/><sub>MERN · Gemini API · Database design</sub> |
-| **Jan 2026 – Present** | **Freelance Full-Stack Developer** | Deployed 5+ full-stack web applications with secure authentication and optimized database queries.<br/><sub>React · Node.js · MongoDB · Express · REST APIs · Cloud services</sub> |
-| **Apr 2026** | **Lead Organizer & Platform Developer**<br/>InterConnect 26.0 | Built and deployed the official platform, supporting 200+ users with 100% uptime during the event period.<br/><sub>MERN · Event management · Deployment</sub> |
+</div>
 
 ---
 
@@ -225,7 +114,7 @@ More Web2 and Web3 work lives on [GitHub](https://github.com/beereshbc?tab=repos
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=beereshbc&show_icons=true&hide_border=true&bg_color=00000000&title_color=40A2E3&icon_color=40A2E3&text_color=64748B" alt="GitHub stats for beereshbc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=beereshbc&show_icons=true&hide_border=true&bg_color=00000000&title_color=40A2E3&icon_color=40A2E3&text_color=64748B&border_radius=20" alt="GitHub stats for beereshbc" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beereshbc&layout=compact&hide_border=true&bg_color=00000000&title_color=40A2E3&text_color=64748B" alt="Top languages for beereshbc" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=beereshbc&hide_border=true&background=00000000&ring=40A2E3&fire=40A2E3&currStreakNum=64748B&sideNums=64748B&currStreakLabel=40A2E3&sideLabels=64748B&dates=64748B" alt="GitHub contribution streak for beereshbc" />
@@ -276,10 +165,8 @@ SSLC · 98%
 ## Currently Exploring
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1500&color=64748B&center=true&vCenter=true&width=620&height=30&lines=Python+development;Agentic+AI+architectures;LangChain+%26+LangGraph;RAG+pipelines;MCP+servers+and+clients;AI+evaluation+and+guardrails;Machine+Learning+%26+Deep+Learning;Cloud+and+deployment+workflows" alt="Currently exploring: Python, agentic AI, LangChain and LangGraph, RAG, MCP, evals and guardrails, ML and DL, cloud deployment" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=16&duration=3500&pause=1500&color=64748B&center=true&vCenter=true&width=640&height=30&lines=Python+development;Agentic+AI+architectures;LangChain+%26+LangGraph;RAG+pipelines;MCP+servers+and+clients;AI+evaluation+and+guardrails;Machine+Learning+%26+Deep+Learning;Cloud+and+deployment+workflows" alt="Currently exploring: Python, agentic AI, LangChain and LangGraph, RAG, MCP, evals and guardrails, ML and DL, cloud deployment" />
 </div>
-
-<sub>These are areas I'm actively learning. My professional experience is listed under [Experience](#experience).</sub>
 
 ---
 
@@ -290,17 +177,14 @@ SSLC · 98%
 Open to meaningful engineering collaborations, innovative projects, and opportunities to build impactful software.
 
 <p>
-  <a href="https://github.com/beereshbc"><img src="https://img.shields.io/badge/GitHub-005B4C?style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://beereshkumarbc.me"><img src="https://img.shields.io/badge/Portfolio-40A2E3?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/beereshkumar-b-c-004397341"><img src="https://img.shields.io/badge/LinkedIn-64748B?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:bcbeereshkumar@gmail.com"><img src="https://img.shields.io/badge/Email-64748B?style=for-the-badge" alt="Email" /></a>
+  <a href="https://github.com/beereshbc"><img src="assets/btn-github.svg" alt="GitHub" height="38" /></a>
+  <a href="https://beereshkumarbc.me"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="38" /></a>
+  <a href="https://www.linkedin.com/in/beereshkumar-b-c-004397341"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38" /></a>
+  <a href="mailto:bcbeereshkumar@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="38" /></a>
+  <a href="https://instagram.com/beera____"><img src="assets/btn-instagram.svg" alt="Instagram" height="38" /></a>
+  <a href="https://x.com/BBchatrad"><img src="assets/btn-x.svg" alt="X" height="38" /></a>
 </p>
 
-<p>
-  <a href="https://instagram.com/beera____">Instagram</a> ·
-  <a href="https://x.com/BBchatrad">X</a>
-</p>
-
-<sub>Built with care · Davanagere, Karnataka, India</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=005B4C&height=110&section=footer&reversal=true" alt="" width="100%" />
 
 </div>
