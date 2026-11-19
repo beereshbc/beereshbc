@@ -26,7 +26,7 @@
 
 </div>
 
-<h2 align="center" id="philosophy"><img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=1800&pause=100000&color=40A2E3&center=true&vCenter=true&repeat=false&letterSpacing=5px&width=420&height=45&lines=PHILOSOPHY" alt="Philosophy" /></h2>
+
 
 <div align="center">
 
