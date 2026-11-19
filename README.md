@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005B4C&height=200&section=header&text=BEERESHKUMAR%20B%20C&fontSize=42&fontColor=DFF391&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20MERN%20%C2%B7%20Agentic%20AI%20%C2%B7%20Web3&descSize=15&descAlignY=60&descColor=FFFFFF&animation=fadeIn" alt="Beereshkumar B C — Full-Stack, Java and Spring Boot, MERN, Agentic AI, Web3" width="100%" />
-
+<p>Beereshkumar B C — Full-Stack, Java and Spring Boot, MERN, Agentic AI, Web3</p>
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3000&pause=1100&color=40A2E3&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I'm+Beeresh.;Full-Stack+Developer;MERN+Stack+Developer;Java+%26+Spring+Boot+Developer;Agentic+AI+Explorer;Web3+Developer;Software+Engineer+in+Progress" alt="Rotating titles: Full-Stack Developer, MERN Stack Developer, Java and Spring Boot Developer, Agentic AI Explorer, Web3 Developer, Software Engineer in Progress" />
 
 <p>Building scalable applications, intelligent systems, and impactful digital products.</p>
